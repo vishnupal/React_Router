@@ -7,7 +7,7 @@ import Blog from './components/Blog'
 import Home from './components/Home'
 import Contact from './components/Contact'
 import Navbar from './components/Navbar'
-
+import  './App.css'
 export default function App() {
   return (
     <BrowserRouter>
